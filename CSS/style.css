@@ -1,3 +1,10 @@
-.text {
-    color: green;
+.header .cities__link{
+color: red;
 }
+
+.header__navigation{
+    background-color: lightgray; 
+}
+
+input:checked + label
+
